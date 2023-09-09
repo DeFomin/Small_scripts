@@ -1,4 +1,4 @@
-# auto-archive
+# Small_scripts
 
 ```chmod +x script.sh```
 
