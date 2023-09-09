@@ -1,5 +1,5 @@
 #!/bin/bash
-SERVICE_NAME="имя_службы"
+SERVICE_NAME="name"
 
 if systemctl is-active --quiet $SERVICE_NAME; then
     echo "$SERVICE_NAME работает нормально."
