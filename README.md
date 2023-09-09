@@ -1,5 +1,6 @@
 # Small_scripts
 
-```chmod +x script.sh```
+```chmod +x <name>.sh```  
+```./<name>.sh```  
 
-```./script.sh```
+Небольшие скрипты, которые я использовал
